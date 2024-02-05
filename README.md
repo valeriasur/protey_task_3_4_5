@@ -12,24 +12,25 @@ pip install -r requirements.txt
 name_image = cv2.imread(file_path)
 ```
 # Окна с разными изменениями изображений
-- Было выведено изображение pcb.jpg.
-![image](C:\imagess\1.png)
+- Было выведено изображение pcb.jpg.\
+![1](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/72163dee-ad95-47cc-a100-ecb64f6d8ffb)
 - Было выведено изображение с новым разрешением (1920, 1020).
-![resized_img](C:\imagess\2.png)
+![2](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/7180641a-8bd7-4ce7-875d-4f9d3a81a022)
 - Изображение было повернуто на 45, 90, 180 градусов.
-![the image is rotated by 45 degrees](C:\imagess\3.png)
-![the image is rotated by 90 degrees](C:\imagess\4.png)
-![the image is rotated by 180 degrees](C:\imagess\5.png)
+![3](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/0cacd7ca-ee32-40c6-aac4-3a46efd81bb8)
+![4](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/28ade060-5f80-43ea-adeb-562d77cb9858)
+![5](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/a27d2d69-5397-4941-b26c-a19f52bc957a)
 - Изображение было отражено по горизонтали и вертикали.
-![Flipped Horizontal Image](C:\imagess\6.png)
-![Flipped Vertical Image](C:\imagess\7.png)
-- Из изображения была вырезана область 100x100 пикселей.
-![cropped image](C:\imagess\8.png)
-- Размеры изобржения четные, поэтому центральных пикселей 4, их значения изменены на (0, 0, 255).
-![cropped image](C:\imagess\9.png)
-- Значение группы пикселей было изменено на синий цвет.
-![The values of the pixel group have been changed to blue](C:\imagess\10.png)
-- Был отрисован красный прямоугольник вокруг области пикселей, значение которых было изменено.
-(C:\imagess\11.png)
-- Над синим прямоугольником был добавлен текст.
-(C:\imagess\12.png)
+![6](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/b80cbc1b-92a7-4447-80d8-0fbff666b087)
+![7](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/c7c99b7e-e835-45c1-924c-b69bf96547b9)
+- Из изображения была вырезана область 100x100 пикселей.\
+![8](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/79931d5a-47ca-48c2-b3be-68a9401419ff)
+- Размеры изобржения четные, поэтому центральных пикселей 4, их значения изменены на (0, 0, 255).\
+![9](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/e850ddc7-3ddd-40dc-a3b2-b13fb759b12f)
+- Значение группы пикселей было изменено на синий цвет.\
+![10](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/69174f7f-1201-4d4b-8c7a-6b7378253e33)
+- Был отрисован красный прямоугольник вокруг области пикселей, значение которых было изменено.\
+![11](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/751617b6-0333-4319-8ea9-964ca1ca7500)
+- Над синим прямоугольником был добавлен текст.\
+![12](https://github.com/valeriasur/protey_task_3_4_5/assets/103844758/38575e33-ed67-4f44-8ce7-a394c904a9a9)
+
